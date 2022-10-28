@@ -10,3 +10,8 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 > - Maria Aguirre
 > - Omar Sanchez
 > - Salvador Felipe
+
+
+## Clase 01
+> - Introduccion a Selenium
+> - Instalacion y configuracion de Selenium y Drivers
