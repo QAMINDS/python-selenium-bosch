@@ -1,15 +1,21 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
+#from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.firefox.service import Service
 import time
 
-CHROMEDRIVER_PATH = 'clase_01/drivers/chromedriver.exe'
+#CHROMEDRIVER_PATH = 'clase_01/drivers/chromedriver.exe'
 FIREFOXDRIVER_PATH = 'clase_01/drivers/geckodriver.exe'
+FIREFOX_PATH = 'C:/Program Files/Mozilla Firefox/firefox.exe' #Verifica instalacion de Firefox (opcional)
 
 URL = 'https://qamindslab.com/'
 
 
-service = Service(CHROMEDRIVER_PATH)
-driver = webdriver.Chrome(service=service)
+#service = Service(CHROMEDRIVER_PATH)
+#driver = webdriver.Chrome(service=service)
+service = Service(FIREFOXDRIVER_PATH)
+options = webdriver.FirefoxOptions()
+options.binary_location = FIREFOX_PATH #opcional
+driver = webdriver.Firefox(service=service,options=options)
 
 
 driver.get(URL)
