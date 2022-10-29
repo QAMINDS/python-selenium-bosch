@@ -15,3 +15,6 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 ## Clase 01
 > - Introduccion a Selenium
 > - Instalacion y configuracion de Selenium y Drivers
+
+## Clase 02
+> - Introduccion a Pytest
