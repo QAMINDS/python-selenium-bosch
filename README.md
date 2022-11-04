@@ -18,3 +18,11 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 
 ## Clase 02
 > - Introduccion a Pytest
+
+## Clase 03
+> - DOM
+> - XPATH
+
+## Clase 04
+> - CSS Selector
+> - Captura de Elementos
