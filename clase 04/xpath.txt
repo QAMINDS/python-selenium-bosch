@@ -1,0 +1,13 @@
+De la pagina de: https://laboratorio.qaminds.com/
+
+obtener los siguientes elementos:
+* Opcion My account
+    $x('//a[@title="My Account"]/span[text()="My Account"]')
+    $x('//a[@title="My Account"]/span[contains(@class,"hidden")]')
+    $x('//li[@class="dropdown"]//span[@class="hidden-xs hidden-sm hidden-md"]')
+* Input de busqueda
+    $x('//input[@name="search"]')
+    $x('//div[@id="search"]/input')
+    $x('//input[@class]')
+* Boton de busqueda
+* Opcion Software del Menu
