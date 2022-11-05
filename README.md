@@ -26,3 +26,6 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 ## Clase 04
 > - CSS Selector
 > - Captura de Elementos
+
+## Clase 05
+> - WebElements Part 1
