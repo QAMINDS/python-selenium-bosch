@@ -1,10 +1,11 @@
 from selenium import webdriver
 #from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.common.by import By
 import time
 
-#CHROMEDRIVER_PATH = 'clase_01/drivers/chromedriver.exe'
-FIREFOXDRIVER_PATH = 'clase_01/drivers/geckodriver.exe'
+#CHROMEDRIVER_PATH = 'drivers/chromedriver.exe'
+FIREFOXDRIVER_PATH = 'drivers/geckodriver.exe'
 FIREFOX_PATH = 'C:/Program Files/Mozilla Firefox/firefox.exe' #Verifica instalacion de Firefox (opcional)
 
 URL = 'https://qamindslab.com/'
@@ -19,5 +20,7 @@ driver = webdriver.Firefox(service=service,options=options)
 
 
 driver.get(URL)
+elemento = driver.find_element(By.ID,'ID')
+elemento.click()
 time.sleep(3)
 driver.close()
