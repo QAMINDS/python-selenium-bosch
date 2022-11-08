@@ -29,3 +29,8 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 
 ## Clase 05
 > - WebElements Part 1
+
+## Clase 05
+> - WebElements Part 2
+> - Ejercicioes sobre WebElements
+
