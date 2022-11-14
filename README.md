@@ -38,3 +38,6 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 > - Select
 > - XPath Dinamicos
 
+## Clase 08
+> - Implicitly Wait
+> - Explicit Wait
