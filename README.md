@@ -41,3 +41,7 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 ## Clase 08
 > - Implicitly Wait
 > - Explicit Wait
+
+## Clase 09
+> - WebDriver (Methods)
+> - Esxpera Explicita (Verificacion de elementos)
