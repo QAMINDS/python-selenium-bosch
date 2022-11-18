@@ -45,3 +45,6 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 ## Clase 09
 > - WebDriver (Methods)
 > - Esxpera Explicita (Verificacion de elementos)
+
+## Clase 10
+> - Factory Driver
