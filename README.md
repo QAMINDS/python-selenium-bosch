@@ -48,3 +48,10 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 
 ## Clase 10
 > - Factory Driver
+
+## Clase 11
+> - Parametrizacion de WebDriver (Part 1)
+
+## Clase 12
+> - Parametrizacion de WebDriver (Part 2)
+> - Nota: La clase 12 esta contenida en la carpeta de la clase 11.

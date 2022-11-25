@@ -1,0 +1,15 @@
+{
+    "url" : "https://qamindslab.com/",
+    "browser_name" : "edge",
+    "incognito" : true,
+    "headless" :{
+        "enabled" :false,
+        "resolution" : {
+            "x" : 1920,
+            "y": 1080
+        }
+    },
+    "maximized_window":true,
+    "implicit_wait": 2,
+    "page_load": 1
+}
