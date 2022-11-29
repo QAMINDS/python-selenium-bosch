@@ -55,3 +55,9 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 ## Clase 12
 > - Parametrizacion de WebDriver (Part 2)
 > - Nota: La clase 12 esta contenida en la carpeta de la clase 11.
+
+## Clase 13
+> - Check Practico
+
+## Clase 14
+> - Revision del Check Practico
