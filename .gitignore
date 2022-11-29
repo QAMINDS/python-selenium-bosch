@@ -1,4 +1,3 @@
 *.exe
 geckodriver.log
 **/__pycache__
-*.json
