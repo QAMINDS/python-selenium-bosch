@@ -61,3 +61,12 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 
 ## Clase 14
 > - Revision del Check Practico
+
+## Clase 15
+> - Introduccion a POM
+
+## Clase 16
+> - Implementacion POM
+> - Construccion de Framework
+> - Nota: Para ejecutar el proyecto del framework es necesario estar al nivel de la carpeta `clase_16_framework` y ejecutarlo con: `python -m pytest ./tests/test_search.py`
+
