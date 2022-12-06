@@ -21,7 +21,6 @@ class BasePage:
     def _is_present(self,element,mensaje):
         assert element is not None , f'{mensaje}'
 
-
     def _get_element(self,by,locator) -> WebElement|None:
         try:
             return self._driver.find_element(by,locator)
@@ -36,3 +35,9 @@ class BasePage:
 
     def _is_visible(self,element:WebElement, mensaje):
         assert element.is_displayed() , f'{mensaje}'
+
+    def _write(self,element:WebElement,text):
+        element.send_keys(text)
+
+    def _get_text(self,element:WebElement) -> str:
+        return element.text
