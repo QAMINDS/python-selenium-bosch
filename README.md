@@ -73,3 +73,7 @@ Repositorio de bootcamp para equipo Bosch sobre Python y Selenium
 ## Clase 17
 > - Continuacion de construccion de Framework
 
+## Clase 18
+> - Continuacion de construccion de Framework
+> - Driver Wait
+> - Screenshots

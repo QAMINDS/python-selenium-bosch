@@ -35,3 +35,6 @@ def get_implicit_wait():
 
 def get_page_load():
     return __config['page_load']
+
+def get_path_screenshots():
+    return __config['screenshots']

@@ -11,5 +11,6 @@
     },
     "maximized_window":true,
     "implicit_wait": 2,
-    "page_load": 10
+    "page_load": 10,
+    "screenshots" : "screenshots"
 }
